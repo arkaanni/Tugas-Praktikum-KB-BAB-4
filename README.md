@@ -1,12 +1,13 @@
 # **Tugas Praktikum KB BAB 4**
 Source code ini digunakan untuk menyelesaikan tugas praktikum kecerdasan buatan bab 4 CSP
 
-----
 
 ## **Soal**
 Modifikasilah program dari modul sehingga dapat menyelesaikan permasalahan coloroing map pada peta pulau Sumatera. Domain yang digunakan adalah maksimal 3 warna. Daerah yang digunakan adalah provinsi yang telah diberi nomor. Tentukan terlebih dahulu constrain yang dibutuhkan. Modofikasi pula metode backtracking diatas dengan menambahkan MRV (Most Restricted Variable) Heuristic.
 
-
+## Kontribusi
+Untuk kontribusi dengan perbaikan kecil, cukup create a pull request.
+ 
 ## Terima kasih
 Source code ini terinspirasi dari [armon](https://github.com/armon/cse473-ai-csp) dan [Syafiqq](https://gist.github.com/Syafiqq) dengan menggunakan beberapa source code.
 
